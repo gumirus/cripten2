@@ -1,1 +1,2 @@
 - # [Figma-maket](https://www.figma.com/proto/rnAg8rWnNF0KxX75J8k5vd/landing?node-id=2-2)
+- # [Deploy](https://gumirus.github.io/cripten2/)
